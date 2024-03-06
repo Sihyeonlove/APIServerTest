@@ -1,8 +1,8 @@
 {
     [
     {
-    "id" : "000000000001";
-    "name" : "TEAM42";
+    "id" : "000000000001",
+    "name" : "TEAM42",
     "lv" : 84,
     "honor" : 439,
     "win" : 5054,
@@ -10,7 +10,7 @@
     "rank" : -1,
     "coupleId" : null,
     "mentormentee" : 1,
-    "intro" : "I know what they want,
+    "intro" : "I know what they want",
     "mentees" : ["이 배열에 멘티들의 ID가 들어갑니다."];
     "memtor" : {
         "id" : "여기에 자기 자신이 멘토일 경우, ID가 들어갑니다,",
