@@ -1,8 +1,29 @@
 {
-    "res" : 200,
-    "message" : [
-        "Hello, World!",
-        "Hell, World!!",
-        "Chiara"
+    [
+    {
+    "id" : "000000000001";
+    "name" : "TEAM42";
+    "lv" : 84,
+    "honor" : 439,
+    "win" : 5054,
+    "lose" : 4735,
+    "rank" : -1,
+    "coupleId" : null,
+    "mentormentee" : 1,
+    "intro" : "I know what they want,
+    "mentees" : ["이 배열에 멘티들의 ID가 들어갑니다."];
+    "memtor" : {
+        "id" : "여기에 자기 자신이 멘토일 경우, ID가 들어갑니다,",
+        "score" : 86,
+        "grade" : 5.0,
+        "menteesize" : 9,
+    },
+    "main" : 21,
+    "jewel" : 14,
+    "deck" : ["여기에 덱이 들어갑니다.비공개일 경우, []을 반환합니다."],
+    "guildId" : "0000000001",
+    },
+    {
+}
     ]
 }
